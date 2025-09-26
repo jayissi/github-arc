@@ -10,5 +10,5 @@ roleRef:
   name: system:openshift:scc:github-arc
 subjects:
 - kind: ServiceAccount
-  name: github-arc-runners-gha-rs-no-permission
+  name: arc-runner-set-gha-rs-no-permission
   namespace: arc-runners
